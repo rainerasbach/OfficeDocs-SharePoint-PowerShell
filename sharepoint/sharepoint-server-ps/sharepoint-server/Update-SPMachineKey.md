@@ -2,7 +2,7 @@
 external help file: Microsoft.SharePoint.PowerShell.dll-Help.xml
 module name: SharePointServer
 online version: https://learn.microsoft.com/powershell/module/sharepoint-server/update-spmachinekey
-applicable: SharePoint Server Subscription Edition
+applicable: SharePoint Server Subscription Edition, SharePoint Server 2019, SharePoint Server 2016
 title: Update-SPMachineKey
 schema: 2.0.0
 ---
